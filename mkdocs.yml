@@ -5,7 +5,7 @@ theme:
   custom_dir: overrides
   icon:
     logo: bbkb/logo
-  favicon: logo.svg
+  favicon: images/bbkb_logo.svg
   palette:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
