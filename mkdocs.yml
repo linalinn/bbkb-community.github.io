@@ -1,6 +1,6 @@
 site_name: BBKB Community
 site_url: https://bbkb-community.github.io
-site_description: A gallery of pocket-sized keyboards and computers built using leftover stock of BB keyboards. Dedicated to the community of enthusiasts creating and using these devices.
+site_description: A gallery of pocket-sized keyboards and computers built using leftover stock of BB keyboards.
 theme:
   name: material
   custom_dir: overrides
