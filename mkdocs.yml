@@ -32,6 +32,10 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bbkb-community/bbkb-community.github.io
 nav:
   - Welcome: index.md
   - Computers: computers/index.md
