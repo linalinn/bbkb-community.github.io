@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="20mm"
-   height="20mm"
-   viewBox="0 0 20 20"
+   width="19.999817mm"
+   height="19.999981mm"
+   viewBox="0 0 19.999817 19.999981"
    version="1.1"
    id="svg1"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -12,28 +12,30 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <linearGradient
+    <radialGradient
        xlink:href="#linearGradient11"
-       id="linearGradient12"
-       x1="15.541183"
-       y1="192.27591"
-       x2="8.126626"
-       y2="177.72403"
+       id="radialGradient2"
+       cx="4.9503975"
+       cy="178.8131"
+       fx="4.9503975"
+       fy="178.8131"
+       r="8.1659088"
+       gradientTransform="matrix(1.4888499,2.0018691,-2.6599371,1.9782753,541.28785,-309.24171)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient11">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#5a5a5a;stop-opacity:0.63137257;"
          offset="0"
-         id="stop11" />
+         id="stop15" />
       <stop
          style="stop-color:#1b1b1b;stop-opacity:0.89019608;"
-         offset="0.64340103"
+         offset="0.45474508"
          id="stop14" />
       <stop
-         style="stop-color:#5c5c5c;stop-opacity:0.63137255;"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="1"
-         id="stop15" />
+         id="stop11" />
     </linearGradient>
     <linearGradient
        xlink:href="#linearGradient8"
@@ -42,7 +44,8 @@
        y1="184.99997"
        x2="19.999817"
        y2="184.99997"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(71.172917,-124.72917)" />
     <linearGradient
        id="linearGradient8">
       <stop
@@ -54,38 +57,76 @@
          offset="1"
          id="stop10" />
     </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient4"
+       id="radialGradient1"
+       cx="8.8890696"
+       cy="188.44742"
+       fx="8.8890696"
+       fy="188.44742"
+       r="9.9999065"
+       gradientTransform="matrix(0.99008283,0.14048477,-0.21564006,1.5197484,112.01347,-224.20153)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0.53871316"
+         id="stop4" />
+      <stop
+         style="stop-color:#1b1b1b;stop-opacity:1;"
+         offset="0.73979557"
+         id="stop8" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
   </defs>
   <g
      id="layer1">
     <g
-       id="g15"
-       transform="translate(3.5279095e-8,-175)">
+       id="g1"
+       transform="translate(-71.172917,-50.27083)">
       <path
-         style="display:inline;fill:url(#linearGradient12);fill-opacity:1;stroke:url(#linearGradient10);stroke-width:0"
-         d="m 3.6855066,194.99994 c 0,0 -0.80611,-19.99994 8.5217404,-19.99994 h 7.79239 l 1.8e-4,19.99958 z"
+         style="display:inline;fill:url(#radialGradient2);fill-opacity:1;stroke:url(#linearGradient10);stroke-width:0"
+         d="m 74.858424,70.27077 c 0,0 -0.80611,-19.99994 8.52174,-19.99994 h 7.79239 l 1.8e-4,19.99958 z"
          id="path4" />
+      <path
+         id="path3"
+         style="fill:url(#radialGradient1);fill-opacity:1;stroke:#00aa00;stroke-width:0"
+         d="m 71.172917,50.271 v 19.99981 h 3.685563 c 0,0 -0.806407,-19.99981 8.521444,-19.99981 z m 3.685563,19.99981 h 16.31425 v -5.1e-4 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;line-height:0.9;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#dcdcdc;fill-opacity:1;stroke:#00aa00;stroke-width:0"
-         x="7.6311173"
-         y="179.92603"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;line-height:0.9;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:#00aa00;stroke-width:0"
+         x="83.628738"
+         y="63.11528"
          id="text8"
          transform="scale(0.93651505,1.0677885)"><tspan
            id="tspan8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dcdcdc;fill-opacity:1;stroke-width:0"
-           x="7.6311173"
-           y="179.92603">B</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6;fill-opacity:1;stroke-width:0"
+           x="83.628738"
+           y="63.11528">B</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;line-height:0.9;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff7f2a;fill-opacity:1;stroke:#00aa00;stroke-width:0"
-         x="13.777427"
-         y="179.9711"
+         x="90.340088"
+         y="63.160355"
          id="text8-1"
          transform="scale(0.93651505,1.0677885)"><tspan
-           id="tspan8-5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff7f2a;fill-opacity:1;stroke-width:0"
-           x="13.777427"
-           y="179.9711">B</tspan></text>
+           id="tspan2"
+           x="90.340088"
+           y="63.160355">b</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.02716px;line-height:0.9;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:#00aa00;stroke-width:0"
+         x="92.854057"
+         y="54.461044"
+         id="text8-6"
+         transform="scale(0.93651504,1.0677885)"><tspan
+           id="tspan3"
+           x="92.854057"
+           y="54.461044">!</tspan></text>
     </g>
   </g>
 </svg>
