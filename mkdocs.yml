@@ -32,6 +32,8 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+plugins:
+  - social
 extra:
   social:
     - icon: fontawesome/brands/github
