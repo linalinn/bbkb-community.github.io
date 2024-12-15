@@ -1,5 +1,5 @@
 site_name: BBKB Community
-site_url: https://bbkb-community.org
+site_url: https://bbkb-community.github.io
 theme:
   name: material
   custom_dir: overrides
