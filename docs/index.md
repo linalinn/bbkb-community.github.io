@@ -8,7 +8,7 @@ This website is dedicated to those devices, which have turned leftover stock of 
 
 The maintainers of this website have no commercial affiliation with the people creating or selling these devices. We're just members of the community. And since you're here, you might be a member of the BBKB Community too.
 
-![BBQ20KBD by Solder Party](images/bbq20kbd_crop.png){ width="300" }
+![BBQ20KBD by Solder Party](images/bbq20kbd.png){ width="300" }
 /// caption
 BBQ20KBD by Solder Party
 ///

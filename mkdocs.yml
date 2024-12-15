@@ -6,6 +6,11 @@ theme:
   icon:
     logo: bbkb/logo
   favicon: images/bbkb_logo.svg
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - toc.integrate
   palette:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -23,12 +28,17 @@ theme:
         name: Switch to dark mode
       primary: orange
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       options:
         custom_icons:
           - overrides/.icons
-  - attr_list
-  - md_in_html
-  - pymdownx.blocks.caption
+nav:
+  - Welcome: index.md
+  - Computers: computers/index.md
+  - Keyboards: keyboards/index.md
+  - Inactive Projects: inactive-projects/index.md
