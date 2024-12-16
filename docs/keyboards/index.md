@@ -26,7 +26,7 @@
 [![Github: BB9900-USB-keyboard](https://img.shields.io/badge/repo-9900_USB-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/BB9900-USB-keyboard)
 - [![Github: BBP9983-USB_BLE_Keyboard](https://img.shields.io/badge/repo-P9983_USB_&_BLE-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard)
 
-![Firmware: source available](https://img.shields.io/badge/firmware-source_available-9E9D24)
+![Firmware: open source](https://img.shields.io/badge/firmware-open_source-43A047)
 
 - Runs [ZMK Firmware](https://zmk.dev/) with custom configuration.
 - [![Github: zmk_config_Q20](https://img.shields.io/badge/repo-Q20-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/zmk_config_Q20)
