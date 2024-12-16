@@ -15,7 +15,7 @@
 ![Q10](https://img.shields.io/badge/Q10-null?logo=blackberry&logoColor=FFFFFF&color=000000)
 ![9900](https://img.shields.io/badge/9900-null?logo=blackberry&logoColor=FFFFFF&color=000000)
 - Display: ![colour_4-inch 720x720 pixel display](https://img.shields.io/badge/colour_4--inch_720x720_pixel-1565C0)
-- Battery: ![2x Nokia BL-5C](https://img.shields.io/badge/2x_Nokia_BL--5C-~2000_mAh-E65100?labelColor=555555)
+- Battery: ![2x Nokia BL-5C](https://img.shields.io/badge/2x_Nokia_BL--5C_(not_included)-~2000_mAh-E65100?labelColor=555555)
 
 ---
 
