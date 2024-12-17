@@ -4,8 +4,7 @@ site_description: A gallery of pocket-sized keyboards and computers built using 
 theme:
   name: material
   custom_dir: overrides
-  icon:
-    logo: bbkb/logo
+  logo: images/bbkb_logo.svg
   favicon: images/bbkb_logo.svg
   features:
     - navigation.indexes
