@@ -14,8 +14,6 @@ To serve the site on a local webserver:
 uv run mkdocs serve
 ```
 
-To deploy the site to [bbkb-community.github.io](https://bbkb-community.github.io/) using GitHub Pages:
+## Deployment
 
-```
-uv run mkdocs gh-deploy
-```
+To deploy the site to [bbkb-community.github.io](https://bbkb-community.github.io/), simply commit to the **main** branch. The site will be automatically updated by the [deploy.yml](.github/workflows/deploy.yaml) GitHub Action.
