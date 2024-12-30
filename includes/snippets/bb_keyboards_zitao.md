@@ -12,7 +12,9 @@
 
 ---
 
+<div markdown id="hardware">
 ![Hardware: closed source](https://img.shields.io/badge/hardware-closed_source-B71C1C)
+</div>
 
 - [![Github: BBQ20-USB_BLE_Keyboard](https://img.shields.io/badge/repo-Q20_USB_&_BLE-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/BBQ20-USB_BLE_Keyboard)
 [![Github: BBQ20-USB-keyboard](https://img.shields.io/badge/repo-Q20_USB-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/BBQ20-USB-keyboard)
@@ -22,7 +24,9 @@
 [![Github: BB9900-USB-keyboard](https://img.shields.io/badge/repo-9900_USB-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/BB9900-USB-keyboard)
 - [![Github: BBP9983-USB_BLE_Keyboard](https://img.shields.io/badge/repo-P9983_USB_&_BLE-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/BBP9983-USB_BLE_Keyboard)
 
+<div markdown id="firmware">
 ![Firmware: open source](https://img.shields.io/badge/firmware-open_source-43A047)
+</div>
 
 - Runs [ZMK Firmware](https://zmk.dev/) with custom configuration.
 - [![Github: zmk_config_Q20](https://img.shields.io/badge/repo-Q20-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/zmk_config_Q20)
@@ -31,8 +35,9 @@
 - [![Github: zmk-config_9900](https://img.shields.io/badge/repo-9900-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/zmk-config_9900)
 - [![Github: zmk-config_9983](https://img.shields.io/badge/repo-P9983-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/zmk-config_9983)
 
-
+<div markdown id="blueberry">
 ![BlueBerry Firmware: source available](https://img.shields.io/badge/BlueBerry_firmware-source_available-9E9D24)
+</div>
 
 - Runs [ZMK Firmware](https://zmk.dev/) with custom configuration tailored to iOS or Android.
 - [![Github: BlueBerry_Q20](https://img.shields.io/badge/repo-Blueberry_Q20-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/Drexel-Macintosh/BlueBerry_Q20)

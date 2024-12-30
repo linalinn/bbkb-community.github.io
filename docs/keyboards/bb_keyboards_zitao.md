@@ -4,6 +4,16 @@
 
 --8<-- "bb_keyboards_zitao.md"
 
+
+## Description
+
+The BB Keyboards by Zitao are easy-to-use and highly-configurable mobile keyboards with a trackpad mouse. They can be paired via Bluetooth or USB with any device that recognizes a keyboard and mouse: a computer, a cell phone, or even something more exotic like an Apple Vision Pro.
+
+Under the hood, the keyboard is powered by the open source [ZMK Firmware](#firmware): a popular firmware used in many mechanical keyboards and other projects. The built-in keymap is open source, and described in the [hardware repository for each device](#hardware). The keymap can also be user-customized or replaced with alternative third-party keymaps. For example, Drexel Macintosh developed the [BlueBerry firmware](#blueberry) which has separate keymaps tailored to iOS or Android phones.
+
+If you're after one of these BB Keyboards, the hardest part might be buying one. New stock is dropped roughly once a month, with the exact date and time announced in the **#stock-announcement** channel on [![Discord: ZitaoTech](https://img.shields.io/badge/Discord-ZitaoTech-null?logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=555555)](https://discord.gg/WzPthAmMbP). Setting notifications for this channel will ensure you're the first to know when the next batch will be released. But you'll have to act quickly, because they typically sell out in less than 10 minutes.
+
+
 ## Articles & Videos
 
 ### Cell phone attachments
