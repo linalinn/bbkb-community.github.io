@@ -30,4 +30,8 @@ The drivers required for the JDI display are closed source: they are developed b
 
     [Wifite on colored Beepy](https://www.tiktok.com/@h4ck1ng.me/video/7422421513350974752)
 
+-   :fontawesome-brands-tiktok:{ .lg .middle } **h4ck1ng.me**, *29 December 2024* (0m25s video)
+
+    [ColorBerry OrangePi Zero 2W](https://www.tiktok.com/@h4ck1ng.me/video/7422421513350974752)
+
 </div>
