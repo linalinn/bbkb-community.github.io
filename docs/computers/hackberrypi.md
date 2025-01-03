@@ -46,6 +46,14 @@ If you're after a HackberryPi, the hardest part may be buying one. New stock is 
 
 <div class="grid cards" markdown>
 
+-   :fontawesome-brands-tiktok:{ .lg .middle } **h4ck1ng.me**, *3 January 2025* (0m38s video)
+
+    [HackberryPi 4B: Robotics Waveshare Pan-Tilt](https://www.tiktok.com/@h4ck1ng.me/video/7455692093852306710)
+
+-   :fontawesome-brands-tiktok:{ .lg .middle } **h4ck1ng.me**, *2 January 2025* (0m32s video)
+
+    [HackberryPi 4B: Wifite](https://www.tiktok.com/@h4ck1ng.me/video/7455386647107079446)
+
 -   :fontawesome-brands-tiktok:{ .lg .middle } **h4ck1ng.me**, *28 December 2024* (0m39s video)
 
     [HackberryPi 4B](https://www.tiktok.com/@h4ck1ng.me/video/7453139598928039190)
