@@ -41,7 +41,8 @@
 
 - Runs [ZMK Firmware](https://zmk.dev/) with custom configuration tailored to iOS or Android.
 - [![Github: BlueBerry_Q20](https://img.shields.io/badge/repo-Blueberry_Q20-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/Drexel-Macintosh/BlueBerry_Q20)
-- [![Github: BlueBerry_Q10](https://img.shields.io/badge/repo-Blueberry_Q10-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/Drexel-Macintosh/BlueBerry_Q10)
+- [![Github: BlueBerry_Q10_V2](https://img.shields.io/badge/repo-mtl/Blueberry_Q10_V2-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/mtl/BlueBerry_Q10_V2)
+[![Github: BlueBerry_Q10](https://img.shields.io/badge/repo-Blueberry_Q10-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/Drexel-Macintosh/BlueBerry_Q10)
 - [![Github: BlueBerry_9900](https://img.shields.io/badge/repo-Blueberry_9900-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/Drexel-Macintosh/BlueBerry_9900)
 - [![Github: 9983](https://img.shields.io/badge/repo-Blueberry_P9983-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/Drexel-Macintosh/9983)
 
