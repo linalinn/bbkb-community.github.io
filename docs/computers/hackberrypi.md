@@ -46,6 +46,10 @@ If you're after a HackberryPi, the hardest part may be buying one. New stock is 
 
 <div class="grid cards" markdown>
 
+-   :fontawesome-regular-newspaper:{ .lg .middle } **CP737! XQTRs bits and bytes**, *7 January 2025*
+
+    [18650 battery mod for Hackberry Pi](https://cp737.net/blog/18650-battery-mod-for-hackberry-pi)
+
 -   :fontawesome-brands-tiktok:{ .lg .middle } **h4ck1ng.me**, *3 January 2025* (0m38s video)
 
     [HackberryPi 4B: Robotics Waveshare Pan-Tilt](https://www.tiktok.com/@h4ck1ng.me/video/7455692093852306710)
