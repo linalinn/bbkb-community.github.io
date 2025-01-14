@@ -2,7 +2,7 @@
 
 <div markdown>
 
-Under active development. Less than 10 prototype boards created, not yet for general sale. Discussions in Discord.
+Under active development. Less than 20 prototype boards created, not yet for general sale. Discussions in Discord.
 
 - Compute Board: ![Raspberry Pi Zero 2 W](https://img.shields.io/badge/Raspberry_Pi-Zero_2_W-555555?logo=raspberrypi&logoColor=FFFFFF&labelColor=A22846)
 - Keyboard:
@@ -15,9 +15,12 @@ Under active development. Less than 10 prototype boards created, not yet for gen
 ---
 
 ![Hardware: open source](https://img.shields.io/badge/hardware-open_source-43A047)
-![Firmware: in development](https://img.shields.io/badge/firmware-in_development-9E9D24)
+![Firmware: open source](https://img.shields.io/badge/firmware-open_source-43A047)
 
 [![Gitlab: beepis](https://img.shields.io/badge/repo-beepis-555555?logo=gitlab&logoColor=FFFFFF&labelColor=FC6D26)](https://gitlab.com/linalinn/bepis)
+[![Github: beepis-case](https://img.shields.io/badge/repo-beepis--case-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/HackModsOrg/beepis-case)
+
+[![Github: bepis-fw-2040](https://img.shields.io/badge/repo-beepis--fw--2040-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/HackModsOrg/bepis-fw-2040)
 
 ![Sales: not active](https://img.shields.io/badge/sales-not_active-607D8B)
 
