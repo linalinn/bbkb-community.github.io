@@ -20,7 +20,8 @@
 [![Github: Hackberry-Pi_Zero](https://img.shields.io/badge/repo-Hackberry--Pi__Zero-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
 [![Github: HackberryPi-4B](https://img.shields.io/badge/repo-HackberryPi--4B-555555?logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/ZitaoTech/HackberryPi-4B)
 
-[![Sales: active](https://img.shields.io/badge/sales-active_(restocks_announced_on_Discord)-43A047)](https://www.tindie.com/stores/zitaotech/)
+[![Sales: active on Tindie](https://img.shields.io/badge/sales-active_on_Tindie_(restocks_announced_on_Discord)-43A047)](https://www.tindie.com/stores/zitaotech/)
+[![Sales: active on Elecrow](https://img.shields.io/badge/sales-active_on_Elecrow-43A047)](https://www.elecrow.com/store/ZitaoTech)
 
 [![Discord: ZitaoTech](https://img.shields.io/badge/Discord-ZitaoTech-null?logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=555555)](https://discord.gg/WzPthAmMbP)
 
