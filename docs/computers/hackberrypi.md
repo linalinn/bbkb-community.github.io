@@ -46,6 +46,14 @@ If you're after a HackberryPi, the hardest part may be buying one. New stock is 
 
 <div class="grid cards" markdown>
 
+-   :fontawesome-regular-newspaper:{ .lg .middle } **CP737! XQTRs bits and bytes**, *29 January 2025*
+
+    [RetroAmber - Retropie theme](https://cp737.net/blog/retroamber-retropie-theme)
+
+-   :fontawesome-brands-tiktok:{ .lg .middle } **h4ck1ng.me**, *28 January 2025* (0m32s video)
+
+    [HackberryPi 4B: Parrot Security Bettercap](https://www.tiktok.com/@h4ck1ng.me/video/7464979718924684566)
+
 -   :fontawesome-regular-newspaper:{ .lg .middle } **CP737! XQTRs bits and bytes**, *7 January 2025*
 
     [18650 battery mod for Hackberry Pi](https://cp737.net/blog/18650-battery-mod-for-hackberry-pi)
