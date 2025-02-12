@@ -20,6 +20,14 @@ If you're after a HackberryPi, the hardest part may be buying one. New stock is 
 
 <div class="grid cards" markdown>
 
+-   :fontawesome-regular-newspaper:{ .lg .middle } **Hackster.io**, *10 February 2025*
+
+    [ZitaoTech's Latest Handheld Pops a Raspberry Pi 5 16GB and Optional AI Accelerator in Your Pocket](https://www.hackster.io/news/zitaotech-s-latest-handheld-pops-a-raspberry-pi-5-16gb-and-optional-ai-accelerator-in-your-pocket-060e0aece6eb)
+
+-   :fontawesome-regular-newspaper:{ .lg .middle } **Hackster.io**, *28 November 2024*
+
+    [This Cyberdeck Pocket PC is Giving Big BlackBerry Vibes](https://www.hackster.io/news/this-cyberdeck-pocket-pc-is-giving-big-blackberry-vibes-05277a255c1b)
+
 -   :fontawesome-regular-newspaper:{ .lg .middle } **Hackster.io**, *30 July 2024*
 
     [Zitao's Compact Handheld HackberryPi Family Boasts Twin Batteries and Upcycled BlackBerry Keyboards](https://www.hackster.io/news/zitao-s-compact-handheld-hackberrypi-family-boasts-twin-batteries-and-upcycled-blackberry-keyboards-5069571aa1b1)
